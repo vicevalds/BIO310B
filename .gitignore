@@ -1,3 +1,6 @@
 .ipynb_checkpoints
 out
 img
+kfolds-results
+loocv-results
+R/BIO310B/.Rproj.user
