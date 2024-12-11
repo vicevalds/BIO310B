@@ -1,1 +1,21 @@
 # BIO310B
+
+
+data <- read.csv(file.path(path, "Chembl28CCandD-loocv_ecfp4_precision.csv"))
+data <- read.csv(file.path(path, "Chembl28CCandD-loocv_fcfp4_precision.csv"))
+data <- read.csv(file.path(path, "Chembl28CCandD-loocv_maccs_precision.csv"))
+data <- read.csv(file.path(path, "e-loocv_ecfp4_precision.csv"))
+data <- read.csv(file.path(path, "e-loocv_fcfp4_precision.csv"))
+data <- read.csv(file.path(path, "e-loocv_maccs_precision.csv"))
+data <- read.csv(file.path(path, "global-loocv_ecfp4_precision.csv"))
+data <- read.csv(file.path(path, "global-loocv_fcfp4_precision.csv"))
+data <- read.csv(file.path(path, "global-loocv_maccs_precision.csv"))
+data <- read.csv(file.path(path, "gpcr-loocv_ecfp4_precision.csv"))
+data <- read.csv(file.path(path, "gpcr-loocv_fcfp4_precision.csv"))
+data <- read.csv(file.path(path, "gpcr-loocv_maccs_precision.csv"))
+data <- read.csv(file.path(path, "ic-loocv_ecfp4_precision.csv"))
+data <- read.csv(file.path(path, "ic-loocv_fcfp4_precision.csv"))
+data <- read.csv(file.path(path, "ic-loocv_maccs_precision.csv"))
+data <- read.csv(file.path(path, "nr-loocv_ecfp4_precision.csv"))
+data <- read.csv(file.path(path, "nr-loocv_fcfp4_precision.csv"))
+data <- read.csv(file.path(path, "nr-loocv_maccs_precision.csv"))
